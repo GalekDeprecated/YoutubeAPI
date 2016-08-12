@@ -7,7 +7,7 @@ class YoutubeAPI
 
     public $apiKey = 'AIzaSyC9cuaEpSeW-KcF-7qaQpNVWfkbPJFLSHc';
 
-    public function setApiKey(string $key)
+    public function setApiKey($key)
     {
         $this->apiKey = $key;
     }
