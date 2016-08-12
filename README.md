@@ -15,7 +15,7 @@ Package Installation
 The best way to install Youtube API is using [Composer](http://getcomposer.org/):
 
 ```sh
-$ composer require galek/nette-calendar
+$ composer require galek/youtube-api
 ```
 
 [Packagist - Versions](https://packagist.org/packages/galek/youtube-api)
