@@ -1,0 +1,19 @@
+{
+    "name": "galek/youtube-api",
+    "description": "Extension for better use youtube API",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Jan Galek",
+            "email": "admin@gcore.cz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Galek\\Utils\\": "src/Galek/Utils"
+        }
+    },
+    "require-dev": {
+        "nette/tester": "^1.7"
+    }
+}

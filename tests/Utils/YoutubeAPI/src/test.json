@@ -1,0 +1,94 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/t-WgrvMh3uAVW7Y-hwBm1QetYXU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/8CuRBe823lHz5jk9HXJGwv0z1uk\"",
+   "id": "bBmeBVDYmKU",
+   "snippet": {
+    "publishedAt": "2011-09-12T12:51:00.000Z",
+    "channelId": "UCiNy5yhUr0i5G-pIIeQVedw",
+    "title": "Empyre One MegaMix",
+    "description": "So Leute heute mal was ganz spezielles!\n2 Stündchen gibt es jetzt für euch Empyre One auf die Ohren!\nWarum ich diesen langen Mix gemacht habe?\n- Weil er meiner Meinung nach der beste Producer dieses Jahres ist!\n- Weil sein Sound KNALLT.\n\nMySpace - http://www.empyre-one.de.ki/\nFacebook - http://www.facebook.com/#!/pages/EMPYRE-ONE/118153607662\nFacebook Tunefish - http://www.facebook.com/#!/DJTunefish\n\nDen MIX gibt es auf MEINER FACEBOOK Seite 'free' zum DOWNLOAD!\n\nSchönen Tag wünsche ich euch noch.\nTunefish",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bBmeBVDYmKU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bBmeBVDYmKU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bBmeBVDYmKU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bBmeBVDYmKU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "DJTunefish2",
+    "tags": [
+     "Techno 2011 Summer Mega Mix",
+     "Best House & Electro 2011",
+     "Dance Music 2011",
+     "Techno 2010 Mega Mix",
+     "Remix Techno 2010",
+     "Songs 2011",
+     "Mix 2011",
+     "Rn'B Mix 2011",
+     "Mix 2011 Remix",
+     "Future Trance 55",
+     "Dream Dance 58",
+     "Technolovers.net",
+     "GenetixNeo",
+     "Dj whitestyles",
+     "Dj Lauro",
+     "DjBeatmatcher",
+     "Chrisss999999",
+     "DjExDream2",
+     "HandsUpMusic2",
+     "DjTunefish2"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Empyre One MegaMix",
+     "description": "So Leute heute mal was ganz spezielles!\n2 Stündchen gibt es jetzt für euch Empyre One auf die Ohren!\nWarum ich diesen langen Mix gemacht habe?\n- Weil er meiner Meinung nach der beste Producer dieses Jahres ist!\n- Weil sein Sound KNALLT.\n\nMySpace - http://www.empyre-one.de.ki/\nFacebook - http://www.facebook.com/#!/pages/EMPYRE-ONE/118153607662\nFacebook Tunefish - http://www.facebook.com/#!/DJTunefish\n\nDen MIX gibt es auf MEINER FACEBOOK Seite 'free' zum DOWNLOAD!\n\nSchönen Tag wünsche ich euch noch.\nTunefish"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2H11M7S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "5583315",
+    "likeCount": "21774",
+    "dislikeCount": "796",
+    "favoriteCount": "0",
+    "commentCount": "2488"
+   }
+  }
+ ]
+}
